@@ -1,0 +1,25 @@
+_repo: De-Aarde-en-haar-Volken-Jaargang-1877_11317
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11317'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages and travels -- Periodicals'
+- !lcsh 'Geography -- Pictorial works -- Periodicals'
+- GITenberg
+title: De Aarde en haar Volken, Jaargang 1877
+url: http://www.gutenberg.org/ebooks/11317
